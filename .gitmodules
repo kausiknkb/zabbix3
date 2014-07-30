@@ -103,3 +103,6 @@
 [submodule "mysql-chef_gem"]
 	path = mysql-chef_gem
 	url = https://github.com/opscode-cookbooks/mysql-chef_gem.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
