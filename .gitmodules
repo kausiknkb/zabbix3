@@ -112,6 +112,3 @@
 [submodule "ms_dotnet45.git"]
 	path = ms_dotnet45.git
 	url = https://github.com/Webtrends/ms_dotnet45.git
-[submodule "ms_dotnet45"]
-	path = ms_dotnet45
-	url = https://github.com/Webtrends/ms_dotnet45.git
