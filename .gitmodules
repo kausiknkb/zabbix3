@@ -109,3 +109,6 @@
 [submodule "chef-sugar"]
 	path = chef-sugar
 	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "ms_dotnet45.git"]
+	path = ms_dotnet45.git
+	url = https://github.com/Webtrends/ms_dotnet45.git
