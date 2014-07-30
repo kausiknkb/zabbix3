@@ -94,3 +94,6 @@
 [submodule "php-fpm"]
 	path = php-fpm
 	url = https://github.com/yevgenko/cookbook-php-fpm.git
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/opscode-cookbooks/freebsd.git
