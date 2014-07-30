@@ -91,3 +91,6 @@
 [submodule "zabbix"]
 	path = zabbix
 	url = https://github.com/laradji/zabbix.git
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/yevgenko/cookbook-php-fpm.git
