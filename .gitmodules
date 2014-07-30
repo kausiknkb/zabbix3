@@ -1,0 +1,93 @@
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/onehealth-cookbooks/apache2.git
+[submodule "pacman"]
+	path = pacman
+	url = https://github.com/jesseadams/pacman.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/stevendanna/logrotate.git
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/hw-cookbooks/postgresql.git
+[submodule "aws"]
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "ufw"]
+	path = ufw
+	url = https://github.com/opscode-cookbooks/ufw.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/opscode-cookbooks/firewall.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "cookbook-php-fpm"]
+	path = cookbook-php-fpm
+	url = https://github.com/yevgenko/cookbook-php-fpm.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/hw-cookbooks/runit.git
+[submodule "ohai"]
+	path = ohai
+	url = https://github.com/opscode-cookbooks/ohai.git
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/opscode-cookbooks/bluepill.git
+[submodule "ngnix"]
+	path = ngnix
+	url = https://github.com/miketheman/nginx.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/burtlo/ark.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "7-zip"]
+	path = 7-zip
+	url = https://github.com/Blackavar/7-zip.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "chocolatey-cookbook"]
+	path = chocolatey-cookbook
+	url = https://github.com/chocolatey/chocolatey-cookbook.git
+[submodule "powershell"]
+	path = powershell
+	url = https://github.com/chef-windows/powershell.git
+[submodule "java"]
+	path = java
+	url = https://github.com/agileorbit-cookbooks/java.git
+[submodule "oracle-instantclient"]
+	path = oracle-instantclient
+	url = https://github.com/juliandunn/oracle-instantclient.git
+[submodule "php"]
+	path = php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "chocolatey"]
+	path = chocolatey
+	url = https://github.com/chocolatey/chocolatey-cookbook.git
+[submodule "zabbix"]
+	path = zabbix
+	url = https://github.com/laradji/zabbix.git
