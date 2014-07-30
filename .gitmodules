@@ -97,3 +97,9 @@
 [submodule "freebsd"]
 	path = freebsd
 	url = https://github.com/opscode-cookbooks/freebsd.git
+[submodule "iis"]
+	path = iis
+	url = https://github.com/opscode-cookbooks/iis.git
+[submodule "mysql-chef_gem"]
+	path = mysql-chef_gem
+	url = https://github.com/opscode-cookbooks/mysql-chef_gem.git
